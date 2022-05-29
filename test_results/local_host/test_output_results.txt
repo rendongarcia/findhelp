@@ -1,0 +1,10 @@
+test_basic_csv (__main__.BasicTests) ... ok
+test_basic_json (__main__.BasicTests) ... ok
+test_basic_obj (__main__.BasicTests) ... ok
+test_basic_txt (__main__.BasicTests) ... ok
+test_data_frame (__main__.BasicTests) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.121s
+
+OK

@@ -1,0 +1,9 @@
+test_reset_ignore_extensions (__main__.BasicTests) ... ok
+test_reset_ignore_folders (__main__.BasicTests) ... ok
+test_set_ignore_extensions (__main__.BasicTests) ... ok
+test_set_ignore_folders (__main__.BasicTests) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.090s
+
+OK

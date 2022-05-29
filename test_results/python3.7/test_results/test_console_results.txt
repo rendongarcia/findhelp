@@ -1,0 +1,7 @@
+test_search_nothing (__main__.ConsoleTests) ... ok
+test_search_one (__main__.ConsoleTests) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.009s
+
+OK

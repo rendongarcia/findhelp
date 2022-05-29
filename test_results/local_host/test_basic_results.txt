@@ -1,0 +1,21 @@
+test_dummy_extension (__main__.BasicTests) ... ok
+test_empty_dict (__main__.BasicTests) ... ok
+test_extension (__main__.BasicTests) ... ok
+test_extension_and_string (__main__.BasicTests) ... ok
+test_ignore_case (__main__.BasicTests) ... ok
+test_include_all (__main__.BasicTests) ... ok
+test_include_all2 (__main__.BasicTests) ... ok
+test_no_accents (__main__.BasicTests) ... ok
+test_non_existent_dir (__main__.BasicTests) ... ok
+test_not_directory (__main__.BasicTests) ... ok
+test_only_dirs (__main__.BasicTests) ... ok
+test_only_files (__main__.BasicTests) ... ok
+test_regexp (__main__.BasicTests) ... ok
+test_search_nothing (__main__.BasicTests) ... ok
+test_search_one (__main__.BasicTests) ... ok
+test_use_case (__main__.BasicTests) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.110s
+
+OK

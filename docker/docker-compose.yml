@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+  python_base:
+    #build: images/findhelp-python3.7
+    build:
+      context: ../
+      dockerfile: docker/images/findhelp-python3.7.dist/Dockerfile
+    image: findhelp:py37_dist
