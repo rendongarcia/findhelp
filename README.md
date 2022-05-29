@@ -8,13 +8,6 @@ This package finds out for f    iles / folders based on given criteria, such as 
 
 ## **Setup**
 
-Right now, the library is not hosted on **PyPi** so you will need to do a local
-install on your system if you plan to use it in other scrips you use.
-
-First, clone this repo to your local system. After you clone the repo, make sure
-to run the `setup.py` file, so you can install any dependencies you may need. To
-run the `setup.py` file, run the following command in your terminal.
-
 ~~~bash
 pip install findhelp
 ~~~
